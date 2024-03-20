@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mapbga-11x11-0_8mm")(type "KiCad")(uri "${KIPRJMOD}/mapbga-11x11-0_8mm.pretty")(options "")(descr ""))
+)

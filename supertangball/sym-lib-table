@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dragonball")(type "KiCad")(uri "${KIPRJMOD}/dragonball.kicad_sym")(options "")(descr ""))
+)
